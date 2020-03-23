@@ -1,0 +1,8 @@
+texttable
+openpyxl
+xlrd
+xlsxwriter
+urllib3
+selenium
+
+
